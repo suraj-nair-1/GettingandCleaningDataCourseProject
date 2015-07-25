@@ -12,8 +12,8 @@
 ### Variables: 
 * The first two columns correspond to the subject and activity for which the rest of the measurements correspond
 * The following list contains all of the variables for each observation:
-  +"tBodyAcc-mean()-X"          
-  +"tBodyAcc-mean()-Y"           
+  + "tBodyAcc-mean()-X"          
+  + "tBodyAcc-mean()-Y"           
   + "tBodyAcc-mean()-Z"           
   + "tGravityAcc-mean()-X"       
   + "tGravityAcc-mean()-Y"        
